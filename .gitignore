@@ -1,0 +1,11 @@
+﻿bin/
+obj/
+node_modules/
+dist/
+.env
+*.bak
+*.bak2
+*.log
+.vs/
+_backup_*/
+_v3_backup_*/
